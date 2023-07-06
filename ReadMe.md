@@ -13,7 +13,6 @@ Desenvolvedora fullstack em formação pelo bootcamp da Labenu em transição de
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deboraluciaks&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=deboraluciaks&icon=2&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
