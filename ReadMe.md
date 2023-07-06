@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de desenvolvimento full-stack com foco em front-end.
+Desenvolvedora fullstack em formação pelo bootcamp da Labenu em transição de carreira, onde desenvolvo projetos individuais utilizando tecnologias como Github, Gitbash, HTML, CSS, Javascript, ReactJS entre outros.
 
 
 ## 🌐 Socials:
